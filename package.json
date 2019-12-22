@@ -1,0 +1,26 @@
+{
+  "name": "lolli.js",
+  "version": "5.0.0",
+  "description": "An extensible and smart command framework for Eris.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Eris",
+    "Discord",
+    "Framework",
+    "Lolli"
+  ],
+  "author": "Cloudy",
+  "license": "ISC",
+  "dependencies": {
+    "bufferutil": "^4.0.1",
+    "chalk": "^3.0.0",
+    "eris": "^0.11.1",
+    "eris-additions": "^1.3.0",
+    "juration": "^0.1.1",
+    "readdirp": "^3.3.0",
+    "zlib-sync": "^0.1.6"
+  }
+}
